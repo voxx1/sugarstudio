@@ -345,7 +345,7 @@ body {
     margin: 20px;
     margin-bottom: 60px !important;
     color: white;
-    background: #f08da6;
+    background: #f3678a;
 }
 
 .pros-items .reverse {
@@ -358,15 +358,10 @@ body {
     padding: 40px;
 }
 
-.bottom-styling {
-    background-color: #f08da6;
-    color: white;
-}
-
 .btn-success {
     color: #fff;
-    background-color: #f08da6 !important;
-    border-color: #f08da6 !important;
+    background-color: #ea5076 !important;
+    border-color: #ea5076 !important;
 }
 
 .szkolenia h1 {
@@ -714,7 +709,7 @@ body {
 
 .author a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 .author a:hover {
